@@ -11,3 +11,6 @@ Este repositório contém uma bateria de testes automatizados para a API públic
 1. Baixe o arquivo `.json` deste repositório.
 2. Abra o Postman e clique em **Import**.
 3. Rode a coleção e veja os testes passando! 🟢
+
+
+https://serverest.dev/#/Login/post_login
